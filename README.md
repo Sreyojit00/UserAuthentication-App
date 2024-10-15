@@ -32,9 +32,9 @@ npm install
 Step 3: Set Up Environment Variables
 Backend (.env)
 Create a .env file in the backend directory:
-MONGODB_URI = mongodb+srv://mockUser:1234@mockcluster.et7xy.mongodb.net/mockDB?retryWrites=true&w=majority&appName=mockCluster
+MONGODB_URI = ongodb+srv://sreyajitlm105:1234@mern.fvgwst0.mongodb.net/?retryWrites=true&w=majority&appName=MERN
 FRONTEND_URL = http://localhost:3000
-TOKEN_SECRET_KEY = "hfegfgdkwjegfbjbjdbjabiyhwei"
+TOKEN_SECRET_KEY = "sjadshdgadgajdgajhdgadggagggahgdgd"
 
 Step 4: Run the Application
 cd backend
