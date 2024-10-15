@@ -1,5 +1,5 @@
 
-const backendDomin = "http://localhost:8081"
+const backendDomin = "https://userauthenticationapp.onrender.com"
 
 const SummaryApi = {
     signUP : {
